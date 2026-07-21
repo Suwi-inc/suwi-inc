@@ -4,6 +4,6 @@
 - Occasionally delving into Databases
 #
 - 🌱 I’m currently learning **vue.js and next.js**
-- 👨‍💻 All of my projects are available at [suwilanji.ru](suwilanji.ru)
+- 👨‍💻 All of my projects are available at [Debugdazzle.tech](info.debugdazzle.tech)
 - 📫 You can reach me here **suwilanjisilwamba@gmail.com**
 - 📄 Know about my experiences here [CV](https://suwi-inc.github.io/Resume/Suwilanji_Silwamba_CV.pdf)
